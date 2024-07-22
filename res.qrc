@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>keypresser.ico</file>
+        <file>vx.jpg</file>
+    </qresource>
+</RCC>
