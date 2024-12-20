@@ -1,8 +1,8 @@
 ## 1. 简介
 - KeyPresser 是一款开源的自动化按键工具，它可以与窗口交互，并支持后台运行, 无需保持被控窗口在前台运行。用户可以选择要操作的目标窗口，并通过勾选复选框来控制要发送哪些按键消息。可以从组合框中选择所需的按键，并在编辑框中输入时间间隔以控制按键发送之间的延迟。程序提供“开始”和“停止”按钮来启动和终止按键发送过程。
-
+- 专业版下载：[https://pan.baidu.com/s/1k2wdS1sYlYRf1vDbDkcxRw?pwd=ima9](https://pan.baidu.com/s/1fl_tKM5XLrpwiHOXTRy5GA?pwd=ahyk)
 ## 2. 开源版本
-**已开源代码，可下载源代码，自行编译出程序！**
+**已开源代码，可下载源代码，自行编译出程序！**<br/>
 免费版下载： https://pan.baidu.com/s/1N9aDtIFjyq5J3nr9PDe6sQ?pwd=0rz7
 ## 3. Pro专业版下载
 ### 3.1 版本1.0
