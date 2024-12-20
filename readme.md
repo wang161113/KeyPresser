@@ -3,7 +3,7 @@
 
 ## 2. 开源版本
 **已开源代码，可下载源代码，自行编译出程序！**
-
+免费版下载： https://pan.baidu.com/s/1N9aDtIFjyq5J3nr9PDe6sQ?pwd=0rz7
 ## 3. Pro专业版下载
 ### 3.1 版本1.0
 - 1.0下载链接已隐藏，请下载2.0版本！<br>
@@ -21,7 +21,7 @@
 - 最小值最大值相同时，既为固定时间间隔发送按键消息
 - 不同时，则在每次发送按键消息后会随机时间间隔发送按键消息，随机时间间隔介于最小与最大值之间 <br>
 #### **2.0安装包下载地址：**
-https://pan.baidu.com/s/1k2wdS1sYlYRf1vDbDkcxRw?pwd=ima9
+[https://pan.baidu.com/s/1k2wdS1sYlYRf1vDbDkcxRw?pwd=ima9](https://pan.baidu.com/s/1fl_tKM5XLrpwiHOXTRy5GA?pwd=ahyk)
 
 ### 3.3 新版本持续更新
 如果您有好的建议 也可以联系我！
