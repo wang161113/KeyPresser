@@ -3,7 +3,7 @@
 - 软件下载：https://www.progdomain.com/627/
 ## 2. 开源版本
 **已开源代码，可下载源代码，自行编译出程序！**<br/>
-免费版下载： https://pan.baidu.com/s/1N9aDtIFjyq5J3nr9PDe6sQ?pwd=0rz7
+**编译环境：Qt6.5.3 MSVC2019 64bit**
 ## 3. Pro专业版下载
 ### 3.1 版本1.0
 - 1.0下载链接已隐藏，请下载2.0版本！<br>
